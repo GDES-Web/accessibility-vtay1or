@@ -14,7 +14,21 @@
     width: 400px;
   }
 
-  .imput {
+  .imput_name {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .imput_age {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .imput_email {
     display: flex;
     justify-content: space-between;
     align-items: center;
