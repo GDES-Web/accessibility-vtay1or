@@ -14,7 +14,7 @@
     width: 400px;
   }
 
-  li {
+  .imput {
     display: flex;
     justify-content: space-between;
     align-items: center;
